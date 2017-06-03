@@ -1,0 +1,2 @@
+# WorldTimeRuleFixed
+Fixed by ExplorerVN
